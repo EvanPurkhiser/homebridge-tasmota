@@ -14,7 +14,7 @@ This fork is essentially a ES6 rewrite with the same functionality.
 ### Installation
 
 ```
-yarn add -g homebridge-mqtt-switch-tasmota
+yarn global add homebridge-mqtt-switch-tasmota
 ```
 
 ### Configuration
