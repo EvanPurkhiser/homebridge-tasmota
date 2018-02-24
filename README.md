@@ -1,7 +1,7 @@
 # homebridge-tasmota
 
-HomeBridge optimized for work with Itead Sonoff and Electrodragon Relay Board
-hardware and firmware
+HomeBridge accessory plugin built to work with Itead Sonoff and Electrodragon
+Relay Board hardware and firmware
 [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) via MQTT. It acts
 as a switch or outlet (depending of configuration).
 
