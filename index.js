@@ -7,7 +7,7 @@ module.exports = homebridge => {
   Service = homebridge.hap.Service;
   Characteristic = homebridge.hap.Characteristic;
 
-  homebridge.registerAccessory("homebridge-mqtt-switch-tasmota", "mqtt-switch-tasmota", MqttSwitchTasmotaAccessory);
+  homebridge.registerAccessory("homebridge-tasmota", "mqtt-switch-tasmota", MqttSwitchTasmotaAccessory);
 }
 
 class MqttSwitchTasmotaAccessory {
