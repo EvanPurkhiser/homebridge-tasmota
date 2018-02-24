@@ -5,7 +5,11 @@ hardware and firmware
 [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) via MQTT. It acts
 as a switch or outlet (depending of configuration).
 
-Heavily based off of @MacWyznawca's work.
+Very heavily based off of
+[@MacWyznawca](https://github.com/MacWyznawca/homebridge-mqtt-switch-tasmota)'s
+work.
+
+This fork is essentially a ES6 rewrite with the same functionality.
 
 ### Installation
 
